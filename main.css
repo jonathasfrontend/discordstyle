@@ -950,14 +950,14 @@ textarea,
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:before {
-    content: " > Jonathas";
+    content: " <Jonathas";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:after {
-    content: "Oliveira";
+    content: "Oliveira/>";
     color: rgba(255, 255, 255, .3);
     font-size: 14px
 }
