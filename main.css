@@ -478,21 +478,21 @@
 
 @-webkit-keyframes cv-spinner-glow {
     from {
-        filter: drop-shadow(0 0 3px var(--main-color))
+        
     }
 
     to {
-        filter: drop-shadow(0 0 3px var(--main-color)) drop-shadow(0 0 15px var(--main-color))
+        
     }
 }
 
 @keyframes cv-spinner-glow {
     from {
-        filter: drop-shadow(0 0 3px var(--main-color))
+        
     }
 
     to {
-        filter: drop-shadow(0 0 3px var(--main-color)) drop-shadow(0 0 15px var(--main-color))
+        
     }
 }
 
@@ -798,7 +798,7 @@
     border: 3px solid transparent;
     border-radius: 50%;
     margin: auto;
-    filter: drop-shadow(0 0 3px var(--main-color));
+    
     -webkit-animation: cv-spin 1s ease-in-out infinite;
     animation: cv-spin 1s ease-in-out infinite
 }
@@ -963,7 +963,7 @@ textarea,
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB>svg {
-    filter: drop-shadow(0 0 5px var(--main-color));
+    
     margin-top: 6px
 }
 
@@ -1351,7 +1351,7 @@ textarea,
 }
 
 .BE-badge {
-    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7))
+    
 }
 
 .creationDate,
@@ -1578,7 +1578,7 @@ textarea,
 
 .wrapper-NhbLHG.modeUnread-3Cxepe .content-1gYQeQ .mainContent-20q_Hp .icon-2W8DHg {
     color: var(--channel-unread);
-    filter: drop-shadow(0 0 3px);
+    
     opacity: 1
 }
 
@@ -1625,7 +1625,7 @@ textarea,
 
 .wrapper-NhbLHG.modeConnected-NrO4cP .content-1gYQeQ .mainContent-20q_Hp .icon-2W8DHg {
     color: var(--main-color);
-    filter: drop-shadow(0 0 3px)
+    
 }
 
 .wrapper-NhbLHG.modeMuted-2T4MDZ .content-1gYQeQ .mainContent-20q_Hp .icon-2W8DHg,
@@ -2300,7 +2300,7 @@ textarea,
 
 .privateChannels-oVe7HL .channel-1Shao0 .interactive-1vLZ_I.interactiveSelected-29CP8y .activityEmoji-24oKjc,
 .privateChannels-oVe7HL .channel-1Shao0 .interactive-1vLZ_I.interactiveSelected-29CP8y .icon-Lupfh- {
-    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7))
+    
 }
 
 .privateChannels-oVe7HL .channel-1Shao0 .interactive-1vLZ_I.interactiveSelected-29CP8y .activityText-ev7Z1T strong {
@@ -2987,7 +2987,7 @@ textarea,
 }
 
 .flowerStarContainer-1QeD-L .childContainer-U_a6Yh>svg {
-    color: #fff
+    color: #fff;
 }
 
 .gameVerifiedIcon-1YMUdQ>svg>path {
@@ -3392,7 +3392,7 @@ textarea::-webkit-scrollbar {
     background: transparent;
     -webkit-animation: none;
     animation: none;
-    filter: drop-shadow(0 0 3px var(--main-color))
+    
 }
 
 .wanderingCubesItem-3Us-UG:before,
@@ -3635,7 +3635,7 @@ textarea::-webkit-scrollbar {
 .icon-2Ug6UV {
     padding: 1px;
     color: var(--main-color);
-    filter: drop-shadow(0 0 3px var(--main-color))
+    
 }
 
 .folder-241Joy {
@@ -3705,7 +3705,7 @@ textarea::-webkit-scrollbar {
 
 .container-ZMc96U .children-3xh0VB .icon-2xnN2Y {
     color: var(--main-color);
-    filter: drop-shadow(0 0 3px);
+    
     width: 22px
 }
 
@@ -3920,12 +3920,12 @@ textarea::-webkit-scrollbar {
 
 .toolbar-3_r2xA .iconWrapper-2awDjA>svg:not(.icon-2xnN2Y) {
     color: var(--main-color);
-    filter: drop-shadow(0 0 5px);
+    
     transition: filter .3s ease-in-out
 }
 
 .toolbar-3_r2xA .iconWrapper-2awDjA:hover>svg:not(.icon-2xnN2Y) {
-    filter: drop-shadow(0 0 5px) drop-shadow(0 0 10px)
+    
 }
 
 .toolbar-3_r2xA .iconWrapper-2awDjA .iconBadge-3Mmg92 {
@@ -4591,13 +4591,13 @@ textarea::-webkit-scrollbar {
 }
 
 .members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .ownerIcon-255uKo {
-    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7));
+    
     opacity: .7
 }
 
 .members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .icon-Lupfh-,
 .members-3WRCEx .member-2gU6Ar.selected-1-Z6gm .activityEmoji-SDBJp8 {
-    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7))
+    
 }
 
 .members-3WRCEx .memberGroupsPlaceholder-9tqX9V {
@@ -4966,7 +4966,7 @@ textarea::-webkit-scrollbar {
 
 .icon-3OHhZU {
     color: var(--main-color);
-    filter: drop-shadow(0 0 3px);
+    
     width: 22px
 }
 
@@ -6442,7 +6442,7 @@ code {
 .mediaBarInteraction-tUE5dq:hover .mediaBarWrapper-33h1oY,
 .mediaBarInteractionDragging-3XLL8k .mediaBarWrapper-33h1oY {
     
-    filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.3))
+    
 }
 
 .mediaBarInteraction-tUE5dq:hover .bubble-3XikHF,
@@ -8110,7 +8110,7 @@ code {
 
 .content-A8TzKf .categoryText-3B1jLN {
     color: #fff;
-    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.7))
+    
 }
 
 .content-A8TzKf .result-pzZrwj:after {
@@ -10363,7 +10363,7 @@ code {
 }
 
 .mask-1FEkla {
-    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5))
+    
 }
 
 .botTag-7aX5WZ {
