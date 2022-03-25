@@ -2707,7 +2707,7 @@ textarea,
 }
 
 .channelTextArea-1VQBuV {
-    background: rgba(155, 155, 155, 0.6);
+    background: rgba(53, 53, 53, 0.6);
     transition: all .15s ease-in-out
 }
 
@@ -2725,7 +2725,7 @@ textarea,
 }
 
 .channelTextArea-1VQBuV .attachButton-_ACFSu .attachButtonPlus-3IYelE {
-    color: rgba(255, 255, 255, .7);
+    color: rgb(255, 255, 255);
     transition: all .15s ease-in-out
 }
 
@@ -2734,7 +2734,7 @@ textarea,
 }
 
 .channelTextArea-1VQBuV .textArea-2CLwUE .placeholder-1_mJY1 {
-    color: rgba(255, 255, 255, .4)
+    color: rgb(255, 255, 255)
 }
 
 .channelTextArea-1VQBuV .textArea-2CLwUE.textAreaSlate-9-y-k2 {
