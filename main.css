@@ -2712,7 +2712,7 @@ textarea,
 }
 
 .channelTextArea-1VQBuV:focus-within {
-    box-shadow: 0 0 2px 2px var(--main-color)
+    border: 1px solid var(--online-color);
 }
 
 .channelTextArea-1VQBuV .scrollableContainer-15eg7h {
