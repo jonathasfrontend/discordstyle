@@ -2023,9 +2023,9 @@ textarea,
 
 .container-YkUktl:before {
     content: "Jonathas";
-    right: 50%;
+    right: 100%;
     text-align: right;
-    transform: translateX(50%)
+    transform: translateX(100%)
 }
 
 .container-YkUktl:after {
