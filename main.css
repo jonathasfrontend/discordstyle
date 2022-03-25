@@ -2019,14 +2019,14 @@ textarea,
 }
 
 .container-YkUktl:before {
-    content: "ClearVision";
+    content: "Jonathas";
     right: 50%;
     text-align: right;
     transform: translateX(50%)
 }
 
 .container-YkUktl:after {
-    content: "v6.2.1";
+    content: "Oliveira";
     left: 50%;
     text-align: left;
     opacity: 0;
@@ -2707,7 +2707,7 @@ textarea,
 }
 
 .channelTextArea-1VQBuV {
-    background: rgba(0, 0, 0, .6);
+    background: rgba(155, 155, 155, 0.6);
     transition: all .15s ease-in-out
 }
 
